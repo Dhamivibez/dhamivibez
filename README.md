@@ -30,4 +30,3 @@ Some of my interests include:
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
 
 - **Email:** [dhamivibez@gmail.com](mailto:dhamivibez@gmail.com)
-- **GitHub:** [github.com/dhamivibez](https://github.com/dhamivibez)
