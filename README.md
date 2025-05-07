@@ -19,10 +19,10 @@ Some of my interests include:
 
 ## Skills
 
-- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript, Next.js
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript, Tanstack Start
 - **Backend:** Node.js, Express.js, MongoDB, RESTful APIs
 - **Version Control:** Git, GitHub
-- **Tools:** Webpack, Vite, Postman, Docker
+- **Tools:** Vite, Postman, Docker
 - **Other:** JWT authentication, OAuth, WebSockets, CI/CD, Agile development
 
 ## Contact
